@@ -1,5 +1,6 @@
 # client-backend
 
+Moved to the `tf2_monitor_core` subdirectory of [TF2-Monitor](https://github.com/Bash-09/TF2-Monitor)
 
 The client app for [MAC](https://github.com/MegaAntiCheat)
 
